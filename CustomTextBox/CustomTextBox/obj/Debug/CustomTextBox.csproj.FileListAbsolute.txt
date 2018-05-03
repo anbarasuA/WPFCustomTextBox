@@ -1,0 +1,16 @@
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\MainWindow.g.cs
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\App.g.cs
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox_MarkupCompile.cache
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox_MarkupCompile.lref
+D:\PROJECT\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.exe.config
+D:\PROJECT\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.exe
+D:\PROJECT\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.pdb
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\MainWindow.baml
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\Themes\Generic.baml
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.g.resources
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.Properties.Resources.resources
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csproj.GenerateResource.Cache
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.exe
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.pdb
+D:\PROJECT\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csprojResolveAssemblyReference.cache
