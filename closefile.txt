@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+
+namespace CloseOpenedFile
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string fileName ="Test3.pdf";
+            string filePath=@"D:\test";
+            string removeFilePath=Path.Combine(filePath,fileName);
+                Process[] process = Process.GetProcessesByName("AcroRd32");
+                foreach (var item in process)
+                {
+                    if (!string.IsNullOrEmpty(item.MainWindowTitle))
+                    {
+                        if (item.MainWindowTitle.Split('-')[0].TrimEnd().TrimStart().ToLower() == fileName.ToLower())
+                        {
+                            item.CloseMainWindow();
+                            item.WaitForExit(100);
+                            File.Delete(removeFilePath);
+                        }
+                    }
+                }
+        }
+    }
+}
